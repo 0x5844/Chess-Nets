@@ -1,7 +1,7 @@
 # Chess-Nets ♟️
 "Chess Nets" is a collection of AI / Machine Learning experimental research on Chess and Neural Networks. It consists of notebooks, networks, weights, results, methodologies, data and code conducted by this research.
 
-Powered by [Paperspace](https://www.paperspace.com/), both bots are running on 1 x A4000 16GB GPU, 8 vCPU, 45 GB RAM.
+Powered by [Paperspace](https://www.paperspace.com/), both bots are running on 1 x A100 80GB GPU, 12 vCPU, 90 GB RAM.
 
 ## Bots
 
